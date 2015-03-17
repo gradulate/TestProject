@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "MyTestApp",
+  "main": "server.js",
+  "privat": true,
+  "author": "lena456",
+  "dependencies": {
+    "express": "~4.12.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "license": "BSD-2-Clause"
+}
